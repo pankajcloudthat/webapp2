@@ -1,6 +1,6 @@
 <?php
 
 echo "Hello World";
-echo "<h1>Deployment Slot</h1>";
+echo "<h1>Production Slot</h1>";
 
 ?>
